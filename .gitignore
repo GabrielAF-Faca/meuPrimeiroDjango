@@ -1,0 +1,12 @@
+
+
+venv
+.DS_Store
+*.pyc
+.env
+.vscode
+.idea
+projeto/uploads/midias/
+
+
+
